@@ -1,1 +1,8 @@
-{"include":["./**/*","c:/Users/marar/.vscode/extensions/il-harper.vscode-types-for-adobe-0.1.1/node_modules/types-for-adobe/AfterEffects/2018/**/*","c:/Users/marar/.vscode/extensions/il-harper.vscode-types-for-adobe-0.1.1/node_modules/types-for-adobe/shared/**/*"]}
+{
+	"compilerOptions": {
+		"module": "none",
+		// "target": "ES3",
+		"noLib": true
+		// "checkJs": true
+	}
+}
